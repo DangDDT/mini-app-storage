@@ -1,0 +1,17 @@
+{
+    "code": 200,
+    "message": "success",
+    "error": null,
+    "data": [
+        {
+            "appName": "VietInfo MiniApp",
+            "appVersion": "1714709101763",
+            "appDescription": "VietInfo MiniApp"
+        },
+        {
+            "appName": "Chess MiniApp",
+            "appVersion": "1714709101763",
+            "appDescription": "Chess MiniApp"
+        }
+    ]
+}
