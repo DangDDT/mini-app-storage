@@ -4,14 +4,16 @@
     "error": null,
     "data": [
         {
-            "appName": "VietInfo MiniApp",
+            "appId": 2,
+            "appName": "VietInfo",
             "appVersion": "1714709101763",
-            "appDescription": "VietInfo MiniApp"
+            "appDescription": "Ứng dụng cổng thông tin của công ty cổ phần công nghệ số VietInfo"
         },
         {
-            "appName": "Chess MiniApp",
+            "appId": 3,
+            "appName": "Cờ vua",
             "appVersion": "1714709101763",
-            "appDescription": "Chess MiniApp"
+            "appDescription": "Ứng dụng đánh cờ vua trên ứng dụng Thủ Đức"
         }
     ]
 }
