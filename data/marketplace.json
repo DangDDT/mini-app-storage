@@ -1,1 +1,13 @@
-{"code": 200,"message": "success","error": null,"data": {"appId": 1,"appName": "Kho ứng dụng","appVersion": "1714709101763","appDescription": "Kho ứng dụng mini của siêu ứng dụng"}}
+{
+    "code": 200,
+    "message": "success",
+    "error": null,
+    "data": {
+        "appId": 1,
+        "appName": "Kho ứng dụng",
+        "appVersion": "1714709101763",
+        "appDescription": "Kho ứng dụng mini của siêu ứng dụng",
+        "appIconUrl": null,
+        "appUrl": "https://github.com/DangDDT/mini-app-storage/raw/main/demo_sample_mini_app-1714709101763.zip"
+    }
+}
