@@ -3,10 +3,9 @@
     "message": "success",
     "error": null,
     "data": {
-        "appName": "MiniApp Marketplace",
-        "appDescription": "A marketplace for MiniApps",
-        "appVersion": "1.0.0",
-        "appPublisher": "MiniApp",
-        "appPublisherEmail": "dangddt@vietinfo.tech"
+        "appName": "Kho ứng dụng",
+        "appVersion": "1714709101763",
+        "appDescription": "Kho ứng dụng mini của siêu ứng dụng"
+        },
     }
 }
