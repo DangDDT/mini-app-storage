@@ -1,11 +1,1 @@
-{
-    "code": 200,
-    "message": "success",
-    "error": null,
-    "data": {
-        "appId": 1,
-        "appName": "Kho ứng dụng",
-        "appVersion": "1714709101763",
-        "appDescription": "Kho ứng dụng mini của siêu ứng dụng"
-    }
-}
+{"code": 200,"message": "success","error": null,"data": {"appId": 1,"appName": "Kho ứng dụng","appVersion": "1714709101763","appDescription": "Kho ứng dụng mini của siêu ứng dụng"}}
