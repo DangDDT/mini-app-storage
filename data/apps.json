@@ -11,7 +11,6 @@
             "appDescription": "Ứng dụng cổng thông tin của công ty cổ phần công nghệ số VietInfo",
             "appIconUrl": "https://dangddt.github.io/mini-app-storage/assets/vietinfo-miniapp.jpeg",
             "appDownloadUrl": "https://github.com/DangDDT/mini-app-storage/raw/main/vietinfo-mini-app_0.0.1.zip",
-            "marketPlace": false
         }
     ]
 }
