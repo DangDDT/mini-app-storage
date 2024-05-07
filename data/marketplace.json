@@ -4,10 +4,11 @@
     "error": null,
     "data": {
         "appId": 1,
+        "appCode": "vietinfo-miniapp-marketplace",
         "appName": "Kho ứng dụng",
-        "appVersion": "1714709101763",
-        "appDescription": "Kho ứng dụng mini của siêu ứng dụng",
-        "appIconUrl": null,
-        "appDownloadUrl": "https://github.com/DangDDT/mini-app-storage/raw/main/demo_sample_mini_app-1714709101763.zip"
+        "appVersion": "0.0.1",
+        "appDescription": "Kho ứng dụng của hệ thống MiniApp",
+        "appIconUrl": "https://dangddt.github.io/mini-app-storage/assets/mini-app-marketplace.png",
+        "appDownloadUrl": "https://github.com/DangDDT/mini-app-storage/raw/main/vietinfo-miniapp-marketplace_0.0.1.zip"
     }
 }
