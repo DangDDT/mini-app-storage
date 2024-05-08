@@ -6,9 +6,9 @@
         "appId": 1,
         "appCode": "vietinfo-miniapp-marketplace",
         "appName": "Kho ứng dụng",
-        "appVersion": "0.0.1",
+        "appVersion": "0.0.2",
         "appDescription": "Kho ứng dụng của hệ thống MiniApp",
         "appIconUrl": "https://dangddt.github.io/mini-app-storage/assets/mini-app-marketplace.png",
-        "appDownloadUrl": "https://github.com/DangDDT/mini-app-storage/raw/main/vietinfo-miniapp-marketplace_0.0.1.zip"
+        "appDownloadUrl": "https://github.com/DangDDT/mini-app-storage/raw/main/vietinfo-miniapp-marketplace.zip"
     }
 }
