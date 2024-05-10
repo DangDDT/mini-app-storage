@@ -7,7 +7,7 @@
             "appId": 2,
             "appCode": "vietinfo-miniapp",
             "appName": "VietInfo Trực Tuyến",
-            "appVersion": "0.0.2",
+            "appVersion": "0.0.3",
             "appDescription": "Ứng dụng cổng thông tin của công ty cổ phần công nghệ số VietInfo",
             "appIconUrl": "https://dangddt.github.io/mini-app-storage/assets/vietinfo-miniapp.png",
             "appDownloadUrl": "https://github.com/DangDDT/mini-app-storage/raw/main/vietinfo-mini-app.zip"
